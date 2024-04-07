@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Run" targetName="Run" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e024eac-acac-4926-a9cd-983bfd12ed3a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Run.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/common.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/game.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/guide.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/main.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/menu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/background/background_guide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/background/background_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/background/beforegame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/background/beforestart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/background/death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/background/game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/incident/boaixi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/incident/peikelong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/items/blank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/items/gold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/items/obstacle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/items/obstacle_onlydown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/items/obstacle_onlyjump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/items/palball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/items/palball_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/items/shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/pause/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/runner/runner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/runner/runner1_shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/runner/runner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/runner/runner2_shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/runner/runner_jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/runner/runner_jump_shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/runner/runner_squat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/runner/runner_squat_shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/widget/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/img/widget/select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/ttf/pixel-comic-sans-undertale-sans-font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-b5eaa560d535575aae8d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/game.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/guide.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/menu.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2b1j43sFW69XLRcWnLAjQSGARMS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;CMake 应用程序.Run.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/RUN&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\RUN\res\img\background" />
+      <recent name="D:\RUN\res\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake 应用程序.Run">
+    <configuration name="Run" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Run" TARGET_NAME="Run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Run" RUN_TARGET_NAME="Run">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Run" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Run" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.Run" />
+      <item itemvalue="CMake 应用程序.main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Frank\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7e024eac-acac-4926-a9cd-983bfd12ed3a" name="更改" comment="" />
+      <created>1705389284532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705389284532</updated>
+      <workItem from="1705389285613" duration="4115000" />
+      <workItem from="1705463269275" duration="4511000" />
+      <workItem from="1705563272840" duration="17073000" />
+      <workItem from="1705656772118" duration="420000" />
+      <workItem from="1705662105607" duration="6316000" />
+      <workItem from="1705668478414" duration="2347000" />
+      <workItem from="1705717777991" duration="5141000" />
+      <workItem from="1705739481417" duration="5915000" />
+      <workItem from="1705999108269" duration="6623000" />
+      <workItem from="1706008713649" duration="2982000" />
+      <workItem from="1706080861808" duration="6189000" />
+      <workItem from="1706154389711" duration="3385000" />
+      <workItem from="1706157812811" duration="107000" />
+      <workItem from="1706158113893" duration="8531000" />
+      <workItem from="1706237451947" duration="14195000" />
+      <workItem from="1706333866412" duration="2690000" />
+      <workItem from="1706336737307" duration="322000" />
+      <workItem from="1706337134028" duration="4700000" />
+      <workItem from="1706354737133" duration="4865000" />
+      <workItem from="1706402625853" duration="6447000" />
+      <workItem from="1706411837347" duration="2490000" />
+      <workItem from="1706414342814" duration="962000" />
+      <workItem from="1706445004539" duration="5213000" />
+      <workItem from="1706498538436" duration="3423000" />
+      <workItem from="1706584641767" duration="16007000" />
+      <workItem from="1706668466960" duration="5251000" />
+      <workItem from="1706688544836" duration="11314000" />
+      <workItem from="1706790670613" duration="1005000" />
+      <workItem from="1706792956163" duration="1741000" />
+      <workItem from="1706799344032" duration="369000" />
+      <workItem from="1706861866322" duration="2241000" />
+      <workItem from="1706881587488" duration="70000" />
+      <workItem from="1706881664922" duration="1697000" />
+      <workItem from="1706933712128" duration="8209000" />
+      <workItem from="1706970886482" duration="3234000" />
+      <workItem from="1707044631331" duration="31324000" />
+      <workItem from="1707222893768" duration="6446000" />
+      <workItem from="1707274134644" duration="3320000" />
+      <workItem from="1707303627190" duration="8428000" />
+      <workItem from="1707353517455" duration="7055000" />
+      <workItem from="1707383588955" duration="3065000" />
+      <workItem from="1707386785461" duration="776000" />
+      <workItem from="1707400300233" duration="3769000" />
+      <workItem from="1709254877391" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

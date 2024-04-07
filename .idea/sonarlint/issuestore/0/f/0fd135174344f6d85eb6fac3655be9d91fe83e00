@@ -1,0 +1,19 @@
+
+Oc:S1135â"4Complete the task associated to this "TODO" comment.(êÇõ²8¢ÈÄØ1
+oc:S5276…"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(ƒµ”»üÿÿÿÿ8ìü¥Ø1
+jc:S5276"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(öğ“•8íü¥Ø1
+oc:S5276›"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(şŞˆ×şÿÿÿÿ8íü¥Ø1
+oc:S5276¦"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(ùÿÿÿÿÿ8íü¥Ø1
+jc:S5276µ"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(Š—øŒ8íü¥Ø1
+jc:S5276Ä"Oimplicit conversion turns floating-point number into integer: 'double' to 'int'(š”‚8íü¥Ø1
+€c:S995^"gMake the type of this parameter a pointer-to-const. The current type of "event" is "union SDL_Event *".(Ù¿Ê8Ä‚¨æ×1
+pc:S3776Ä"URefactor this function to reduce its Cognitive Complexity from 144 to the 25 allowed.(¡÷ÊÂ8¹µ˜Ø1
+fc:S134Ã"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(»²·8¹µ˜Ø1
+gc:S134Î"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(èæëü8¹µ˜Ø1
+gc:S134Ü"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¼ôËÛ8Ã¾ŸØ1
+gc:S134ï"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¼ôËÛ8°Á£Ø1
+gc:S134‚"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(¼ôËÛ8Õ“¥Ø1
+Qc:S1066‘"1Merge this "if" statement with the enclosing one.(«É÷—ûÿÿÿÿ8¼µ˜Ø1
+Qc:S1066"1Merge this "if" statement with the enclosing one.(«É÷—ûÿÿÿÿ8¼µ˜Ø1
+Kc:S1066Ã"1Merge this "if" statement with the enclosing one.(»²·8ë›û²Ø1
+=c:S125ğ"Remove the commented out code.(’’±‹ÿÿÿÿÿ8ˆÜÂÁØ1
